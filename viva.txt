@@ -18,3 +18,54 @@ VIVA
 -  Features of sonarqube
 -  Comparison of kubernetes with docker..
 -  What's d role of Lambda function in AWS..
+
+1. What is DevOps?
+   - DevOps is a cultural and technical approach that emphasizes collaboration and communication between software development and IT operations teams. It aims to automate and streamline the software delivery process.
+
+2. What are the basic features of DevOps?
+   - Automation, collaboration, continuous integration, continuous delivery, and monitoring are key features of DevOps.
+
+3. DevOps architecture:
+   - DevOps doesn't have a specific architecture, but it typically involves the integration of development and operations tools through various stages of the software development lifecycle.
+
+4. DevOps lifecycle:
+   - The DevOps lifecycle involves planning, coding, building, testing, releasing, deploying, monitoring, and feedback.
+
+5. What's Jenkins, advantages, and disadvantages?
+   - Jenkins is an open-source automation server used for continuous integration and continuous delivery (CI/CD). Advantages include automation, extensibility, and a large plugin ecosystem. Disadvantages may include a learning curve and complex setup.
+
+6. Different tools used in DevOps:
+   - Tools like Git, Jenkins, Docker, Kubernetes, Puppet, Ansible, and many others are commonly used in DevOps.
+
+7. What's Docker?
+   - Docker is a containerization platform that allows you to package applications and their dependencies into containers for consistent and portable deployment.
+
+8. Different Git commands:
+   - Basic Git commands include git clone, git commit, git push, git pull, and git branch for version control.
+
+9. Explain Puppet and its usage in DevOps:
+   - Puppet is a configuration management tool. It automates the provisioning and management of infrastructure and application configurations in DevOps.
+
+10. Basics of NAGIOS, where it can be used, and limitations:
+    - Nagios is a monitoring tool used to track the health and performance of IT infrastructure. It can be used for network, server, and service monitoring. Limitations include complexity in large environments.
+
+11. Basic difference between DevOps and AdvDevOps:
+    - Advanced DevOps typically extends DevOps with more advanced tools and practices, emphasizing scalability, security, and compliance.
+
+12. Features of AWS:
+    - AWS (Amazon Web Services) offers cloud computing services, including storage, computing, databases, machine learning, and more.
+
+13. Use of Kubernetes:
+    - Kubernetes is used for container orchestration, managing, and scaling containerized applications.
+
+14. What is Kubernetes?
+    - Kubernetes is an open-source container orchestration platform for automating the deployment, scaling, and management of containerized applications.
+
+15. Features of SonarQube:
+    - SonarQube is a code quality and security analysis tool that provides features like code quality analysis, security scanning, and code coverage.
+
+16. Comparison of Kubernetes with Docker:
+    - Docker is a containerization platform, while Kubernetes is an orchestration platform for managing containerized applications.
+
+17. Role of Lambda function in AWS:
+    - Lambda functions are serverless computing services in AWS, used to execute code in response to various triggers or events, often used for building serverless applications.
